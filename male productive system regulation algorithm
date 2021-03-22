@@ -1,1 +1,48 @@
-<mxfile host="app.diagrams.net" modified="2021-03-22T16:38:44.400Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" version="14.4.9" etag="jjG_Uyhdjr9feBvEb9o7" type="github"><diagram id="LPrKgO98-RyzngtjVcyL">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-03-22T21:00:53.375Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="m81TZaq5P2RxUsWLIC5y" version="14.5.0" type="github">
+  <diagram id="LPrKgO98-RyzngtjVcyL" name="Page-1">
+    <mxGraphModel dx="1080" dy="1700" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="WfyKKtNt-tzxdrIjZErb-1" value="In testis" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="1340" width="960" height="1020" as="geometry" />
+        </mxCell>
+        <mxCell id="WfyKKtNt-tzxdrIjZErb-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WfyKKtNt-tzxdrIjZErb-3" target="WfyKKtNt-tzxdrIjZErb-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WfyKKtNt-tzxdrIjZErb-3" value="&lt;a class=&quot;dictionary_links___B23Fo&quot; href=&quot;http://endic.naver.com/enkrEntry.nhn?entryId=17011e08d5184498a81f23a4cf9d9b7b&quot; target=&quot;_blank&quot; title=&quot;&quot; style=&quot;display: inline-block ; height: 20px ; position: relative ; padding-right: 30px ; font-weight: 700 ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;span style=&quot;margin: 0px ; padding: 0px 5px 0px 0px ; color: rgb(15 , 183 , 76) ; vertical-align: middle ; letter-spacing: 0px&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 30px&quot;&gt;&lt;i&gt;hypothalamus&lt;/i&gt;&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/a&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="630" y="580" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WfyKKtNt-tzxdrIjZErb-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WfyKKtNt-tzxdrIjZErb-6" target="WfyKKtNt-tzxdrIjZErb-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WfyKKtNt-tzxdrIjZErb-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WfyKKtNt-tzxdrIjZErb-6" target="WfyKKtNt-tzxdrIjZErb-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WfyKKtNt-tzxdrIjZErb-6" value="&lt;font style=&quot;font-size: 14px&quot;&gt;should reproductive GnRH hormones be realeased?&lt;br&gt;(&lt;span style=&quot;background-color: rgb(253 , 253 , 253)&quot;&gt;The schematic diagram will be continuously updated based on the basis of the thesis, and the topic to be dealt with is deep and wide, so a simplified schematic diagram has been drawn up right away.)&lt;/span&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="760" width="320" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="WfyKKtNt-tzxdrIjZErb-7" value="no, GnRH hormones not released normally." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="1010" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WfyKKtNt-tzxdrIjZErb-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WfyKKtNt-tzxdrIjZErb-10" target="WfyKKtNt-tzxdrIjZErb-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="1330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WfyKKtNt-tzxdrIjZErb-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WfyKKtNt-tzxdrIjZErb-10" target="WfyKKtNt-tzxdrIjZErb-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WfyKKtNt-tzxdrIjZErb-10" value="yes,&amp;nbsp; GnRH hormones released noramlly." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1020" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WfyKKtNt-tzxdrIjZErb-11" value="&lt;span style=&quot;color: rgb(77 , 81 , 86) ; font-family: &amp;#34;apple sd gothic neo&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 14px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;Anterior pituitary(man)&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="1190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WfyKKtNt-tzxdrIjZErb-12" value="&lt;span style=&quot;color: rgb(77 , 81 , 86) ; font-family: &amp;#34;apple sd gothic neo&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 14px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;Anterior pituitary(woman)&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="1190" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
